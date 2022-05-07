@@ -4,4 +4,4 @@ This code is VHDL register transfer level code as well as some description level
 
 CP1 is a Sycnronus Up counter timer.
 FA is a RTL full adder.
-Setup is part of a larger progect,
+Setup is part of a larger progect. Project2 is a behavior level pattern recognition state machine with overlap.
